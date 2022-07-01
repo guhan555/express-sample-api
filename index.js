@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/me", (req, res) => {
-  res.send("Hi I am Tola");
+  res.send("Hi I am Qwerty");
 });
 
 app.listen(5000, () => {
